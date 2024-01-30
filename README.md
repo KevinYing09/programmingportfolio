@@ -13,3 +13,23 @@ OOP graphics game spotlighting objects for usuer interaction that includes sound
 ![Spacegame Gameplay](https://github.com/KevinYing09/programmingportfolio/blob/main/images/sg2.png?raw=true)
 ![Spacegame GameOver](https://github.com/KevinYing09/programmingportfolio/blob/main/images/sg3.png?raw=true)
 [SourceCode](https://github.com/KevinYing09/programmingportfolio/blob/main/src/SpaceGame.zip)
+
+### Calculator
+OOP graphics based calculator.
+![Calculator](https://github.com/KevinYing09/programmingportfolio/blob/main/images/c1.png?raw=true)
+[SourceCode](https://github.com/KevinYing09/programmingportfolio/blob/main/src/Calculator.zip)
+
+### Etch a Sketch
+Graphics based drawing platform using the arrow keys.
+![Etcha-a-Sketch](https://github.com/KevinYing09/programmingportfolio/blob/main/images/eas1.png)
+[SourceCode](https://github.com/KevinYing09/programmingportfolio/blob/main/src/EtchaASketch.zip)
+
+### Timeline
+Graphics based timeline showing the history of computers.
+![Timeline](https://github.com/KevinYing09/programmingportfolio/blob/main/images/timeline.png)
+[SourceCode](https://github.com/KevinYing09/programmingportfolio/blob/main/src/Timeline.zip)
+
+### Grades
+graphics based grading scale that converts the number grade into the letter grade.
+![Grades](https://github.com/KevinYing09/programmingportfolio/blob/main/images/grades.png)
+[SourceCode](https://github.com/KevinYing09/programmingportfolio/blob/main/src/Grades.zip)
