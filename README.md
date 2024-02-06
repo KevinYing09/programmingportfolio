@@ -21,15 +21,15 @@ OOP graphics based calculator.
 
 ### Etch a Sketch
 Graphics based drawing platform using the arrow keys.
-![Etcha-a-Sketch](https://github.com/KevinYing09/programmingportfolio/blob/main/images/eas1.png)
+![Etcha-a-Sketch](https://github.com/KevinYing09/programmingportfolio/blob/main/images/eas1.png?raw=true)
 [SourceCode](https://github.com/KevinYing09/programmingportfolio/blob/main/src/EtchaASketch.zip)
 
 ### Timeline
 Graphics based timeline showing the history of computers.
-![Timeline](https://github.com/KevinYing09/programmingportfolio/blob/main/images/timeline.png)
+![Timeline](https://github.com/KevinYing09/programmingportfolio/blob/main/images/timeline.png?raw=true)
 [SourceCode](https://github.com/KevinYing09/programmingportfolio/blob/main/src/Timeline.zip)
 
 ### Grades
 graphics based grading scale that converts the number grade into the letter grade.
-![Grades](https://github.com/KevinYing09/programmingportfolio/blob/main/images/grades.png)
+![Grades](https://github.com/KevinYing09/programmingportfolio/blob/main/images/grades.png?raw=true)
 [SourceCode](https://github.com/KevinYing09/programmingportfolio/blob/main/src/Grades.zip)
