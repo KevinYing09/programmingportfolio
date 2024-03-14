@@ -4,6 +4,9 @@
 * Programming 1 USOE Certification
 
 ## Group Project
+### BlackJack
+OOP Python and Pygame based BlackJack game with graphics.
+![BlackJack Repository](https://github.com/Daniel71529/Blackjacks)
 
 ## Individual Projects
 
