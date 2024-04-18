@@ -6,6 +6,7 @@
 ## Group Project
 ### BlackJack
 OOP Python and Pygame based BlackJack game with graphics.
+![Running Program](https://github.com/KevinYing09/programmingportfolio/blob/main/images/DanielRun.png?raw=true)
 ![BlackJack Repository](https://github.com/Daniel71529/Blackjacks)
 
 ## Individual Projects
