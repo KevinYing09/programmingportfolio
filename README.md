@@ -11,6 +11,10 @@ OOP Python and Pygame based BlackJack game with graphics.
 
 ## Individual Projects
 
+### Falling Blocks
+OOP Python and Pygame based game similar to Tetris with graphics.
+![Falling Blocks Repository](https://github.com/KevinYing09/FallingBlocks)
+
 ### SpaceGame
 OOP graphics game spotlighting objects for usuer interaction that includes sound.
 ![Spacegame Menu](https://github.com/KevinYing09/programmingportfolio/blob/main/images/sg1.png?raw=true)
